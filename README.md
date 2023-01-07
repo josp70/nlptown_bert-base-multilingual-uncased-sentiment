@@ -6,7 +6,7 @@ language:
 - fr
 - it
 - es
-
+- multilingual
 license: mit
 ---
 
