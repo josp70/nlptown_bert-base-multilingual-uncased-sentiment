@@ -12,9 +12,9 @@ license: mit
 
 # bert-base-multilingual-uncased-sentiment
 
-This a bert-base-multilingual-uncased model finetuned for sentiment analysis on product reviews in six languages: English, Dutch, German, French, Spanish and Italian. It predicts the sentiment of the review as a number of stars (between 1 and 5).
+This is a bert-base-multilingual-uncased model finetuned for sentiment analysis on product reviews in six languages: English, Dutch, German, French, Spanish, and Italian. It predicts the sentiment of the review as a number of stars (between 1 and 5).
 
-This model is intended for direct use as a sentiment analysis model for product reviews in any of the six languages above, or for further finetuning on related sentiment analysis tasks.
+This model is intended for direct use as a sentiment analysis model for product reviews in any of the six languages above or for further finetuning on related sentiment analysis tasks.
 
 ## Training data
 
@@ -31,9 +31,9 @@ Here is the number of product reviews we used for finetuning the model:
 
 ## Accuracy
 
-The finetuned model obtained the following accuracy on 5,000 held-out product reviews in each of the languages:
+The fine-tuned model obtained the following accuracy on 5,000 held-out product reviews in each of the languages:
 
-- Accuracy (exact) is the exact match on the number of stars.
+- Accuracy (exact) is the exact match for the number of stars.
 - Accuracy (off-by-1) is the percentage of reviews where the number of stars the model predicts differs by a maximum of 1 from the number given by the human reviewer. 
 
 
