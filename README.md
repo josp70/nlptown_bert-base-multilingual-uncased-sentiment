@@ -50,6 +50,6 @@ The fine-tuned model obtained the following accuracy on 5,000 held-out product r
 
 If you found this model useful, you can buy me a coffee at https://www.buymeacoffee.com/yvespeirsman.
 
-In addition to this model, [NLP Town](https://nlp.town) offers custom models for many languages and NLP tasks.
+In addition to this model, [NLP Town](http://nlp.town) offers custom models for many languages and NLP tasks.
 
 Feel free to contact me for questions, feedback and/or requests for similar models.
