@@ -48,6 +48,8 @@ The fine-tuned model obtained the following accuracy on 5,000 held-out product r
 
 ## Contact 
 
-In addition to this model, [NLP Town](https://nlp.town) offers custom, monolingual sentiment models for many languages and an improved multilingual model through [RapidAPI](https://rapidapi.com/nlp-town-nlp-town-default/api/multilingual-sentiment-analysis2/). 
+If you found this model useful, you can buy me a coffee at https://www.buymeacoffee.com/yvespeirsman.
 
-Feel free to contact us for questions, feedback and/or requests for similar models.
+In addition to this model, [NLP Town](https://nlp.town) offers custom models for many languages and NLP tasks.
+
+Feel free to contact me for questions, feedback and/or requests for similar models.
